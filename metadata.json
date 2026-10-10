@@ -1,0 +1,6 @@
+{
+  "name": "Star Corp",
+  "description": "Enterprise hub for Star Corp engineering projects, deployed websites, databases, and developer team management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
